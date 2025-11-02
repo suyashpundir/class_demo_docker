@@ -10,7 +10,7 @@ on:
 # Define environment variables to use throughout the workflow
 env:
   # !!! IMPORTANT: REPLACE 'suyashpundir' with your actual Docker Hub username !!!
-  DOCKER_REPO: suyashpundir/class_demo_docker 
+  DOCKER_REPO: suyashx/class_demo_docker 
   IMAGE_TAG: latest
 
 jobs:
